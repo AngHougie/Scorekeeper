@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Aug 05 02:02:36 SGT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\USER\\Desktop\\Year 2 Sem 1\\Mobile Application Development\\Scorekeeper\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
